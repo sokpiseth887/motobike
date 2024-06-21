@@ -20,12 +20,12 @@
             android:layout_width="match_parent"
             android:layout_height="200dp"
             android:importantForAccessibility="no"
-            android:src="@drawable/man" />
+            android:src="@drawable/seller" />
 
         <TextView
     android:layout_width="wrap_content"
     android:layout_height="wrap_content"
-    android:text="@string/jame_sbone1"
+    android:text="Jonh Robber"
     android:layout_marginTop="30dp"
     android:layout_gravity="center"
     android:textStyle="bold"
@@ -52,7 +52,7 @@
     android:textColor="#fff"
     android:textSize="20sp"
     android:textStyle="bold"
-    android:background="#9E9E9E"
+    android:background="#955353"
     android:layout_gravity="center_vertical"
     android:layout_marginStart="130dp"
         style="?android:attr/buttonBarButtonStyle" />
@@ -64,7 +64,7 @@
         android:layout_height="50dp"
         android:orientation="horizontal"
         android:layout_marginTop="30dp"
-        android:background="#F1ECEC">
+        android:background="#75494444">
         <ImageView
             android:layout_width="40dp"
             android:layout_height="40dp"
@@ -86,7 +86,7 @@
             android:layout_height="50dp"
             android:orientation="horizontal"
             android:layout_marginTop="30dp"
-            android:background="#F1ECEC">
+            android:background="#75494444">
             <ImageView
                 android:layout_width="40dp"
                 android:layout_height="40dp"
@@ -108,7 +108,7 @@
             android:layout_height="50dp"
             android:orientation="horizontal"
             android:layout_marginTop="30dp"
-            android:background="#F1ECEC">
+            android:background="#75494444">
             <ImageView
                 android:layout_width="40dp"
                 android:layout_height="40dp"

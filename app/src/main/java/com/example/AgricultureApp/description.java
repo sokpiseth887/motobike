@@ -1,6 +1,4 @@
-package com.example.agricultureapp;
-
-import static com.example.agricultureapp.R.id.btnBok;
+package com.example.AgricultureApp;
 
 import android.annotation.SuppressLint;
 import android.content.Intent;
@@ -9,13 +7,14 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.ImageView;
 import android.widget.TextView;
-import android.widget.Toast;
 
 import androidx.activity.EdgeToEdge;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.core.graphics.Insets;
 import androidx.core.view.ViewCompat;
 import androidx.core.view.WindowInsetsCompat;
+
+import com.example.agricultureapp.R;
 
 public class description extends AppCompatActivity implements View.OnClickListener{
 public Button btnCart;

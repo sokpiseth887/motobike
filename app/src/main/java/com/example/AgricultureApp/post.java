@@ -1,4 +1,4 @@
-package com.example.agricultureapp;
+package com.example.AgricultureApp;
 
 import android.annotation.SuppressLint;
 import android.content.Intent;
@@ -16,6 +16,8 @@ import androidx.appcompat.app.AppCompatActivity;
 import androidx.core.graphics.Insets;
 import androidx.core.view.ViewCompat;
 import androidx.core.view.WindowInsetsCompat;
+
+import com.example.agricultureapp.R;
 
 import java.io.IOException;
 

@@ -1,4 +1,4 @@
-package com.example.agricultureapp;
+package com.example.AgricultureApp;
 
 import android.annotation.SuppressLint;
 import android.content.Intent;
@@ -17,6 +17,7 @@ import androidx.core.view.ViewCompat;
 import androidx.core.view.WindowInsetsCompat;
 import androidx.drawerlayout.widget.DrawerLayout;
 
+import com.example.agricultureapp.R;
 import com.google.android.material.navigation.NavigationView;
 
 public class navigation extends AppCompatActivity {

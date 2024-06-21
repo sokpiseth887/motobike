@@ -1,4 +1,4 @@
-package com.example.agricultureapp;
+package com.example.AgricultureApp;
 
 import org.junit.Test;
 

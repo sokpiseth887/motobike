@@ -13,7 +13,7 @@
         <FrameLayout
             android:layout_width="match_parent"
             android:layout_height="250dp"
-            android:background="#03A9F4">
+            android:background="#A98403F4">
             <LinearLayout
                 android:layout_width="match_parent"
                 android:layout_height="100dp"
@@ -76,7 +76,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_gravity="center"
-                android:text="@string/phnom_penh_cambodia"
+                android:text="kompnong cham"
                 android:textColor="#fff"
                 android:textSize="25sp"
                 android:textStyle="bold" />
@@ -93,14 +93,14 @@
             android:layout_marginStart="20dp"
             android:layout_marginTop="20dp"
             android:layout_marginEnd="20dp"
-            android:background="@drawable/bg_round">
+            android:background="@drawable/frame8">
 
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginStart="20dp"
                 android:layout_marginTop="20dp"
-                android:text="@string/get_30_discount"
+                android:text="get_15%_discount"
                 android:textColor="#fff"
                 android:textSize="20sp"
                 android:textStyle="bold" />
@@ -110,7 +110,7 @@
                 android:layout_height="wrap_content"
                 android:layout_marginStart="20dp"
                 android:layout_marginTop="50dp"
-                android:text="@string/on_your_first_order"
+                android:text="With khmer Year "
                 android:textColor="#fff"
                 android:textSize="20sp"
                 android:textStyle="bold" />
@@ -129,17 +129,17 @@
                 android:layout_width="160dp"
                 android:layout_height="130dp"
                 android:layout_marginStart="210dp"
-                android:background="@drawable/buy" />
+                android:background="@drawable/oder" />
 
             <Button
                 android:layout_width="wrap_content"
                 android:layout_height="40dp"
                 android:layout_marginStart="20dp"
                 android:layout_marginTop="112dp"
-                android:background="@drawable/button_shape"
+                android:background="@drawable/search_pro"
                 android:text="@string/buy_now"
                 android:textAllCaps="false"
-                android:textColor="#fff"
+                android:textColor="#000000"
                 android:textSize="18sp"
                 android:textStyle="bold" />
         </FrameLayout>
@@ -166,14 +166,14 @@
                 android:layout_height="100dp"
                 android:layout_marginStart="20dp"
                 android:layout_marginTop="10dp"
-                android:background="@drawable/frame1">
+                android:background="@drawable/frame8">
 
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_gravity="center_horizontal"
                     android:layout_marginTop="70dp"
-                    android:text="@string/vegetables"
+                    android:text="Football shoes"
                     android:textColor="#000"
                     android:textSize="15sp"
                     android:textStyle="bold" />
@@ -183,7 +183,7 @@
                     android:layout_height="60dp"
                     android:layout_gravity="center"
                     android:layout_marginBottom="15dp"
-                    android:background="@drawable/vegetable"
+                    android:background="@drawable/shoes"
                     android:importantForAccessibility="no" />
             </FrameLayout>
 
@@ -193,21 +193,21 @@
                 android:layout_height="100dp"
                 android:layout_marginLeft="35dp"
                 android:layout_marginTop="10dp"
-                android:background="@drawable/frame2">
+                android:background="@drawable/frame8">
 
                 <ImageButton
                     android:layout_width="60dp"
                     android:layout_height="60dp"
                     android:layout_gravity="center"
                     android:layout_marginBottom="15dp"
-                    android:background="@drawable/fruit" />
+                    android:background="@drawable/shirt" />
 
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_gravity="center_horizontal"
                     android:layout_marginTop="70dp"
-                    android:text="Fruits"
+                    android:text="Shirt"
                     android:textColor="#000"
                     android:textSize="15sp"
                     android:textStyle="bold" />
@@ -219,21 +219,21 @@
                 android:layout_height="100dp"
                 android:layout_marginStart="35dp"
                 android:layout_marginTop="10dp"
-                android:background="@drawable/frame3">
+                android:background="@drawable/frame8">
 
                 <ImageButton
                     android:layout_width="60dp"
                     android:layout_height="60dp"
                     android:layout_gravity="center"
                     android:layout_marginBottom="15dp"
-                    android:background="@drawable/fish" />
+                    android:background="@drawable/drink" />
 
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_gravity="center_horizontal"
                     android:layout_marginTop="70dp"
-                    android:text="@string/fishes"
+                    android:text="Drink"
                     android:textColor="#000"
                     android:textSize="15sp"
                     android:textStyle="bold" />
@@ -252,21 +252,21 @@
                 android:layout_height="100dp"
                 android:layout_marginStart="20dp"
                 android:layout_marginTop="10dp"
-                android:background="@drawable/frame4">
+                android:background="@drawable/frame8">
 
                 <ImageButton
                     android:layout_width="60dp"
                     android:layout_height="60dp"
                     android:layout_gravity="center"
                     android:layout_marginBottom="15dp"
-                    android:background="@drawable/meat" />
+                    android:background="@drawable/cake" />
 
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_gravity="center_horizontal"
                     android:layout_marginTop="70dp"
-                    android:text="@string/meat"
+                    android:text="cake"
                     android:textColor="#000"
                     android:textSize="15sp"
                     android:textStyle="bold" />
@@ -278,7 +278,7 @@
                 android:layout_height="100dp"
                 android:layout_marginStart="35dp"
                 android:layout_marginTop="10dp"
-                android:background="@drawable/frame5">
+                android:background="@drawable/frame8">
 
                 <ImageButton
                     android:layout_width="60dp"
@@ -305,21 +305,21 @@
                 android:layout_height="100dp"
                 android:layout_marginStart="35dp"
                 android:layout_marginTop="10dp"
-                android:background="@drawable/frame6">
+                android:background="@drawable/frame8">
 
                 <ImageButton
                     android:layout_width="60dp"
                     android:layout_height="60dp"
                     android:layout_gravity="center"
                     android:layout_marginBottom="15dp"
-                    android:background="@drawable/groceries" />
+                    android:background="@drawable/beer" />
 
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_gravity="center_horizontal"
                     android:layout_marginTop="70dp"
-                    android:text="Groceries"
+                    android:text="Beer"
                     android:textColor="#000"
                     android:textSize="15sp"
                     android:textStyle="bold" />

@@ -43,12 +43,12 @@
         <ImageView
             android:layout_width="100dp"
             android:layout_height="100dp"
-            android:src="@drawable/customer"
+            android:src="@drawable/adam1"
             android:layout_marginStart="20dp"/>
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Agriculture Customer Service"
+            android:text="SethShop Customer Service"
             android:textStyle="bold"
             android:textSize="18sp"
             android:textColor="#000"
@@ -66,15 +66,17 @@
     android:orientation="horizontal"
     android:layout_marginTop="30dp"
     android:background="@drawable/frame7">
+
     <ImageView
         android:layout_width="100dp"
         android:layout_height="100dp"
-        android:src="@drawable/adam1"
-        android:layout_marginStart="20dp"/>
+        android:layout_marginStart="20dp"
+        android:src="@drawable/adam1" />
+
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Adam Smith"
+        android:text="Jonh Roberr"
         android:textStyle="bold"
         android:textSize="18sp"
         android:textColor="#000"
@@ -82,7 +84,7 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Hi Jame!, I have already prepared the fruits for you, It will be there on 5pm today, thank you!"
+        android:text="Hi baker!, I have already prepared the shoes for you, It will be there on 2pm today, thank you!"
         android:layout_marginStart="-99dp"
         android:layout_marginTop="30dp"
         android:textSize="15sp"/>
@@ -95,7 +97,7 @@
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="1"
+            android:text="2"
             android:textSize="15sp"
             android:layout_gravity="center"
             android:textColor="#fff"

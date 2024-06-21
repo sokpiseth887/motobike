@@ -81,7 +81,7 @@
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="987654321"
+            android:text="966464887"
             android:textSize="20sp"
             android:layout_marginStart="182dp"
             android:textStyle="bold"/>
@@ -102,7 +102,7 @@
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="$39.9"
+            android:text="$30"
             android:textSize="25sp"
             android:layout_marginStart="167dp"
             android:textStyle="bold"/>
@@ -121,7 +121,7 @@
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="123456789"
+            android:text="62 25 00 33"
             android:textSize="20sp"
             android:layout_marginStart="115dp"
             android:textStyle="bold"/>

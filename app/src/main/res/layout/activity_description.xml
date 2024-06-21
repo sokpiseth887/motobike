@@ -64,14 +64,14 @@
             <ImageView
                 android:layout_width="match_parent"
                 android:layout_height="250dp"
-                android:src="@mipmap/orange"
                 android:background="#F1EAEA"
-                android:importantForAccessibility="no"/>
+                android:importantForAccessibility="no"
+                android:src="@drawable/shoes" />
 
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="Fresh Orange"
+                android:text="Shoes"
                 android:textSize="30sp"
                 android:textStyle="bold"
                 android:layout_marginTop="20dp"
@@ -130,7 +130,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_marginStart="10dp"
-                    android:text="@string/_3_99_kg"
+                    android:text="$30"
                     android:textSize="25sp"
                     android:layout_marginTop="10dp"
                     android:textStyle="bold"
@@ -157,7 +157,6 @@
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="Kg"
                     android:layout_marginStart="10dp"
                     android:layout_marginTop="8dp"
                     android:textStyle="bold"
@@ -188,7 +187,7 @@
                 android:layout_height="wrap_content"
                 android:layout_marginStart="10dp"
                 android:layout_marginTop="10dp"
-                android:text="@string/this_orage_is_one_of_the_best_naturally_fruit_in_cambodia_grow_in_the_country_side_in_cambodia_100_naturally_with_the_good_tast_and_the_fruit_is_fresh_from_the_farm_you_will_get_the_best_orange_for_your_needed_buy_now_to_get_fresh_and_naturally_orange_with_perfect_tast_in_our_country"
+                android:text="33-45 High Ankle Football Boots Men Soccer Shoe Man Sports Shoes Football Sneakers Kids Boys Soccer Cleats for Children (028 black white AG 34)"
                 android:textSize="20sp"/>
 
             <LinearLayout
